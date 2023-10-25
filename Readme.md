@@ -1,5 +1,8 @@
 ![image](https://github.com/gurjeetsinghvirdee/eth-fund/assets/73753957/46eb47e3-d891-461c-8cf1-20ad92dd49c2)
 
+![image](https://github.com/EthPledge/eth-fund/assets/73753957/02014a17-78c8-46f5-a34e-833ccccdb0d9)
+
+
 # Eth Fund - A Decentralized Crowdfunding Platform
 
 <p>Eth Fund is a decentralized crowdfunding platform built on Ethereum, designed to empower individuals and organizations to raise funds for their projects, causes, and initiatives. With a seamless user experience, powered by Vite+React, Hardhat & Tailwind CSS, Eth Fund provides a secure and transparent way for creators and backers to come together in a trustless environment.<p>
